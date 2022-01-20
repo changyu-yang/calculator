@@ -20,12 +20,12 @@
             <br> 
             <label for="second">Second: </label>
             <input type="number" name="second"id="second">
-            
+            <br>
             <button type="submit" id="plus" value="+" name="operator">+</button>
             <button type="submit" id="minus" value="-" name="operator">-</button>
             <button type="submit" id="multiple" value="*" name="operator">*</button>
             <button type="submit" id="division" value="%" name="operator">%</button>
-            
+            <br>
             Result: ${result}
         </form>
         
